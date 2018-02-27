@@ -1,0 +1,68 @@
+.well{
+	margin-top: 90px;
+}
+
+.page-header{
+	padding-bottom: 0px !important;
+    margin: 0px 0px 5px !important;
+}
+
+.modal{
+    margin-top: 60px;
+    margin-left: 20px;
+    height: 470px;
+   /* width: 700px;*/
+}
+
+ footer{
+	background-color: #0c0c0c
+}
+
+footer li{
+	display: inline;
+	padding-left: 20px;
+}
+
+footer a{
+	color: #282f2f;
+}
+
+footer a:hover{
+	text-decoration: none;
+}
+
+
+
+
+
+/*Media Queries*/
+/*---------------------*/
+
+
+@media(max-width: 425px){
+
+	.navbar-brand{
+		width: 128px;
+		font-size: 14px !important;
+		padding: 17px 2px !important;
+	}
+
+	.navbar-toggle{
+		padding: 9px 5px !important;
+		margin-right: -12px !important;
+	}
+
+	.navbat-toggle .icon-bar{
+		width: 16px !important;
+    	height: 2px !important;
+	}
+
+}
+
+@media(max-width: 768px){
+	
+}
+
+@media(min-width: 768px){
+	
+}
